@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="zero">0</string>
+    <string name="ena">1</string>
+    <string name="duo">2</string>
+    <string name="tria">3</string>
+    <string name="tessera">4</string>
+    <string name="pente">5</string>
+    <string name="eksi">6</string>
+    <string name="efta">7</string>
+    <string name="okto">8</string>
+    <string name="ennia">9</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multi">*</string>
+    <string name="dia">/</string>
+    <string name="sun_plin">+/-</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="blank"></string>
+
+    <string name="title">Calculator</string>
+
+    <!-- Εδώ τοποθετούνται τα ονόματα των φοιτητών-->
+    <string name="author1"></string>
+    <string name="author2"></string>
+
+    <string name="next">Continue</string>
+</resources>
